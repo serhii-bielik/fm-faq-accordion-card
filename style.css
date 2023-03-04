@@ -1,0 +1,54 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --ff: 'Kumbh Sans', sans-serif;
+
+  --clr-text-dark-blue: #1d1e35;
+  --clr-text-soft-red: #f47c57;
+  --clr-text-gray-blue: #4a4b5e;
+  --clr-text-gray-blue: #787887;
+
+  --clr-bg-soft-violet: #af67e9;
+  --clr-bg-soft-blue: #6565e7;
+
+  --clr-divider-gray: #e7e7e9;
+}
+
+body {
+  font-family: var(--ff);
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.container {
+  background: linear-gradient(
+      0deg,
+      var(--clr-bg-soft-blue),
+      var(--clr-bg-soft-violet)
+    )
+    no-repeat;
+
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+.faq {
+}
+.illustration {
+}
+.title {
+}
+.questions {
+}
+.questions__item {
+}
+.questions__item-q {
+}
+.questions__item-a {
+}
