@@ -140,7 +140,7 @@ body {
     background-image: url('images/illustration-woman-online-desktop.svg'),
       url('./images/bg-pattern-desktop.svg');
     background-repeat: no-repeat, no-repeat;
-    background-position: left -5rem center, right top + 68%;
+    background-position: left -5rem center, right top 68%;
   }
 
   .desktop-wrapper {
