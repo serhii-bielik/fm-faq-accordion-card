@@ -119,6 +119,7 @@ body {
     display: grid;
     grid-template-columns: 400px 1fr;
     gap: 2rem;
+    transform: none;
     padding: 0 2rem 0 0;
   }
 
