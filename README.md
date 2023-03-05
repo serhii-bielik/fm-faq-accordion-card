@@ -4,7 +4,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://serhii-bielik.github.io/fm-faq-accordion-card/)
+- Live Site URL: [Live Preview](https://serhii-bielik.github.io/fm-faq-accordion-card/)
 - Frontend Mentor - [@serhii-bielik](https://www.frontendmentor.io/profile/serhii-bielik)
 
 ### Screenshot
